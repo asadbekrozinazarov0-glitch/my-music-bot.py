@@ -13,7 +13,7 @@ BOT_TOKEN = "8432141124:AAHmkMEz6QM5CC4mDFL10647s5nGdemGvls"
 ADMIN_ID = 5704733766
 CHANNEL_ID = "@usa_bek_1"
 FIXED_ARTIST = "Рузиназаров 🐊"
-THUMB_IMAGE = "photo.jpg"  # Har bir musiqaga qo'yiladigan doimiy rasm (image.png dagi rasm)
+THUMB_IMAGE = "IMG_1492.jpeg"
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=BOT_TOKEN)
